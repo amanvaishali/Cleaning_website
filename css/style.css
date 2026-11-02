@@ -1,0 +1,19 @@
+body{
+    background-color: #fff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header .navbar {
+    background-color: #22A360;
+    
+}
+
+.nav-link i {
+    width: 20px;
+    height: 20px;
+}
